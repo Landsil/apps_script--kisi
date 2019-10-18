@@ -1,4 +1,4 @@
-# kisi
+# Kisi
 Useful scripts for Kisi
 
 https://github.com/Landsil/kisi/blob/master/learning.gs
